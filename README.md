@@ -15,7 +15,7 @@ It automatically detects common session cookie names (`__session`, `connect.sid`
 1. Go to `about:debugging#/runtime/this-firefox`
 2. Click **Load Temporary Add-on** and select `firefox/manifest.json`
 
-Or install from [addons.mozilla.org](https://addons.mozilla.org) (if published).
+Or install from [addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/session-cookie-copier/).
 
 ## Usage
 
